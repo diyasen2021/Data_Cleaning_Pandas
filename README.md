@@ -10,7 +10,7 @@ This repository contains code for cleaning data from various datasets. The goal 
 - Removing irrelevant or incomplete columns  
 - Converting data types for consistency and analysis  
 - Cleaning and standardizing columns
-- Identifying and handling outliers in availability  
+- Identifying and handling outliers  
 - Ensuring the dataset is ready for further exploration or modeling  
 
 ---
